@@ -55,8 +55,6 @@ OUTPUT
 
 ![hasil krs](https://user-images.githubusercontent.com/115356128/232086314-d76a19a8-6be6-494b-a807-0ece1cd9f890.png)
 
-DDL Script
-![ddl script](https://user-images.githubusercontent.com/115356128/232086628-22b70bc8-a630-4288-ac6a-8436230baffc.png)
 
 
 
